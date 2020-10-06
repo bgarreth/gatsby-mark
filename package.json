@@ -18,7 +18,7 @@
     "gatsby-plugin-svgr": "^2.0.1",
     "gatsby-source-filesystem": "^2.0.8",
     "gatsby-transformer-sharp": "^2.1.8",
-    "mdbreact": "^4.27.0",
+    "mdbreact": "git+https://oauth2:tcMUnGBE1XMsBF1ej3kP@git.mdbootstrap.com/mdb/react/re-pro.git",
     "prop-types": "^15.6.2",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",

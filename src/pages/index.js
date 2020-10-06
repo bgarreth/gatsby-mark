@@ -6,13 +6,14 @@ import Carousel from '../components/carousel';
 import AboutSection from '../components/aboutSection'
 import Card from '../components/card'
 import { MDBRow } from 'mdbreact'
+import { withAuthenticator, AmplifySignOut } from '@aws-amplify/ui-react'
 
 class App extends Component {
   render() {
     return (
       <>
         <Layout>
-          <SEO title="Home" keywords={[`gatsby`, `MDBReact`, `react`, `Material Design For Bootstrap`]} />
+          <SEO title="Home" keywords={[`wildwoodrock`, `wildwoodrock extreme`, `enduro`, `Australia's hardest enduro`]} />
         <Carousel />
         <Intro />
         <main>
@@ -34,4 +35,4 @@ class App extends Component {
   }
 }
 
-export default App;
+export default App

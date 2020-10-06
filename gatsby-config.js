@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: 'MDB React Starter',
-    description: 'MDB React starter for material design landing page',
-    siteUrl: 'https://gatsby-starter.mdbootstrap.com',
-    author: 'anna-morawska',
+    title: 'Wildwood 2020',
+    description: 'Australia`s Toughest Enduro Race',
+    siteUrl: 'https://wildwoodrockextreme.com',
+    author: 'Mark Steven',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
