@@ -7,6 +7,8 @@ import AboutSection from '../components/aboutSection'
 import Card from '../components/card'
 import { MDBRow } from 'mdbreact'
 
+import { withAuthenticator, AmplifySignOut } from '@aws-amplify/ui-react'
+
 class Live extends Component {
   render() {
     return (
@@ -30,4 +32,4 @@ class Live extends Component {
   }
 }
 
-export default Live;
+export default withAuthenticator (Live);
