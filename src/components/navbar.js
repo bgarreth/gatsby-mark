@@ -22,12 +22,12 @@ class NavbarPage extends Component {
         <MDBContainer>
           <Logo  />
           <Link to="/" className="navbar-brand">
-            <strong className="ml-3 white-text">Wildwood</strong></Link>
+            <strong className="ml-3 white-text">Wildwood 2020</strong></Link>
           <MDBNavbarToggler name="navbar-toggler" onClick={this.toggleCollapse} />
           <MDBCollapse id="navbarCollapse3" isOpen={this.state.isOpen} navbar>
             <MDBNavbarNav left>
                 <CustomNavLink to="#!">Home</CustomNavLink>
-                <CustomNavLink to="#!">About</CustomNavLink>
+                <CustomNavLink to="/live">Live</CustomNavLink>
                 <CustomNavLink to="#!">Projects</CustomNavLink>
                 <MDBNavItem>
                 <MDBDropdown>

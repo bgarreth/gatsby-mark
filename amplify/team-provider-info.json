@@ -10,6 +10,11 @@
       "StackName": "amplify-wildwoodrocks-dev-114517",
       "StackId": "arn:aws:cloudformation:ap-southeast-2:977305666257:stack/amplify-wildwoodrocks-dev-114517/34f3ba70-076d-11eb-bc7e-0a5c8161115c",
       "AmplifyAppId": "d1e94aczhfuyp1"
+    },
+    "categories": {
+      "auth": {
+        "wildwoodrocks5c128736": {}
+      }
     }
   }
 }
