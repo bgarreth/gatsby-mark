@@ -20,7 +20,7 @@ class App extends Component {
           <AboutSection />
           <section id="cardSection">
             <h2 className="h1-responsive text-center font-weight-bold mb-5">
-              Our bestseller
+              Our bestseller Yet
             </h2>
             <MDBRow className="m-0" center>
               <Card />
