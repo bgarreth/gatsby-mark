@@ -11,7 +11,7 @@ const Live = () => (
    
     <h1>Live Page</h1>
     
-    <Link to="/">Go back to homepage</Link>
+    <Link to="/">Go back  homepage</Link>
   </Layout>
 )
 
