@@ -28,7 +28,7 @@ class NavbarPage extends Component {
             <MDBNavbarNav left>
                 <CustomNavLink to="#!">Home Page</CustomNavLink>
                 <CustomNavLink to="/live">Live Event</CustomNavLink>
-                <CustomNavLink to="#!">Projects</CustomNavLink>
+                <CustomNavLink to="/playervideo">Player Video</CustomNavLink>
                 <MDBNavItem>
                 <MDBDropdown>
                   <MDBDropdownToggle nav caret>

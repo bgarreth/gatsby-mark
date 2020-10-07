@@ -20,9 +20,11 @@
     "gatsby-transformer-sharp": "^2.1.8",
     "mdbreact": "git+https://oauth2:tcMUnGBE1XMsBF1ej3kP@git.mdbootstrap.com/mdb/react/re-pro.git",
     "prop-types": "^15.6.2",
-    "react": "^16.6.3",
-    "react-dom": "^16.6.3",
-    "react-helmet": "^5.2.0"
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-helmet": "^5.2.0",
+    "redux": "^4.0.5",
+    "video-react": "^0.14.1"
   },
   "keywords": [
     "gatsby",
