@@ -12,6 +12,9 @@ dist/
 *.tgz
 
 amplify
+amplify-meta.json
+
+aws-exports.js
 amplify/\#current-cloud-backend
 amplify/.config/local-*
 amplify/mock-data
