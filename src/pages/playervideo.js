@@ -128,7 +128,7 @@ export default class Playervideo extends Component {
                     </MDBBtn>
                     </MDBRow>
                     <MDBRow>
-                    <p>In the Heart of Falls Creek</p>
+                    <p>In  Falls Creek</p>
                     </MDBRow>
                     
                   
