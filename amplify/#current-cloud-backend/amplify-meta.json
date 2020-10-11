@@ -1,15 +1,15 @@
 {
   "providers": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-wildwoodrocks-dev-114517-authRole",
-      "UnauthRoleArn": "arn:aws:iam::977305666257:role/amplify-wildwoodrocks-dev-114517-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::977305666257:role/amplify-wildwoodrocks-dev-114517-authRole",
-      "Region": "ap-southeast-2",
-      "DeploymentBucketName": "amplify-wildwoodrocks-dev-114517-deployment",
-      "UnauthRoleName": "amplify-wildwoodrocks-dev-114517-unauthRole",
-      "StackName": "amplify-wildwoodrocks-dev-114517",
-      "StackId": "arn:aws:cloudformation:ap-southeast-2:977305666257:stack/amplify-wildwoodrocks-dev-114517/34f3ba70-076d-11eb-bc7e-0a5c8161115c",
-      "AmplifyAppId": "d1e94aczhfuyp1"
+      "AuthRoleName": "amplify-wildwoodrocks-test-94557-authRole",
+      "UnauthRoleArn": "arn:aws:iam::299854659728:role/amplify-wildwoodrocks-test-94557-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::299854659728:role/amplify-wildwoodrocks-test-94557-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-wildwoodrocks-test-94557-deployment",
+      "UnauthRoleName": "amplify-wildwoodrocks-test-94557-unauthRole",
+      "StackName": "amplify-wildwoodrocks-test-94557",
+      "StackId": "arn:aws:cloudformation:eu-west-1:299854659728:stack/amplify-wildwoodrocks-test-94557/91611ef0-0ba6-11eb-997e-0a913f7aa53b",
+      "AmplifyAppId": "d14ap2lhhz68qq"
     }
   },
   "auth": {
@@ -19,17 +19,17 @@
       "dependsOn": [],
       "customAuth": false,
       "providerMetadata": {
-        "s3TemplateURL": "https://s3.amazonaws.com/amplify-wildwoodrocks-dev-114517-deployment/amplify-cfn-templates/auth/wildwoodrocks5c128736-cloudformation-template.yml",
+        "s3TemplateURL": "https://s3.amazonaws.com/amplify-wildwoodrocks-test-94557-deployment/amplify-cfn-templates/auth/wildwoodrocks5c128736-cloudformation-template.yml",
         "logicalId": "authwildwoodrocks5c128736"
       },
-      "lastPushTimeStamp": "2020-10-06T01:07:06.634Z",
+      "lastPushTimeStamp": "2020-10-11T09:51:37.745Z",
       "output": {
-        "AppClientSecret": "1s401f4kk25mvfvv38737vqbv3k57vofpmpq7qlkb060hvtj59qf",
-        "UserPoolId": "ap-southeast-2_ug8Dndu40",
-        "AppClientIDWeb": "4os6p8g00pdtkat2tno6luivdh",
-        "AppClientID": "67fjvjt4eve20l6mmqq2tibb2k",
-        "IdentityPoolId": "ap-southeast-2:7d2c19f5-5a8f-4810-af70-418e086ba449",
-        "IdentityPoolName": "wildwoodrocks5c128736_identitypool_5c128736__dev",
+        "AppClientSecret": "127fgsio5v1332mg6t78bfmgjpl8astp69dcp2co4dm942puf7pk",
+        "UserPoolId": "eu-west-1_siGTaEJ0Y",
+        "AppClientIDWeb": "en9bocte77lb1qr53mp7cbd9i",
+        "AppClientID": "7pgic3hhva5s4uefdvvffqn084",
+        "IdentityPoolId": "eu-west-1:41e34d2d-a96d-4933-8a5a-9626c9d5dd04",
+        "IdentityPoolName": "wildwoodrocks5c128736_identitypool_5c128736__test",
         "UserPoolName": "wildwoodrocks5c128736_userpool_5c128736"
       },
       "lastPushDirHash": "ChyIDwrVxugk411zj62lI1OE0/U="
