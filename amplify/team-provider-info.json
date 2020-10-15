@@ -19,15 +19,14 @@
   },
   "develop": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-wildwoodrocks-develop-112402-authRole",
-      "UnauthRoleArn": "arn:aws:iam::299854659728:role/amplify-wildwoodrocks-develop-112402-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::299854659728:role/amplify-wildwoodrocks-develop-112402-authRole",
+      "AuthRoleName": "amplify-wildwoodrocks-develop-113041-authRole",
+      "UnauthRoleArn": "arn:aws:iam::299854659728:role/amplify-wildwoodrocks-develop-113041-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::299854659728:role/amplify-wildwoodrocks-develop-113041-authRole",
       "Region": "eu-west-1",
-      "DeploymentBucketName": "amplify-wildwoodrocks-develop-112402-deployment",
-      "UnauthRoleName": "amplify-wildwoodrocks-develop-112402-unauthRole",
-      "StackName": "amplify-wildwoodrocks-develop-112402",
-      "StackId": "arn:aws:cloudformation:eu-west-1:299854659728:stack/amplify-wildwoodrocks-develop-112402/6f63aa20-0c7d-11eb-aad1-02e1b00b3378",
-      "AmplifyAppId": "d14ap2lhhz68qq"
+      "DeploymentBucketName": "amplify-wildwoodrocks-develop-113041-deployment",
+      "UnauthRoleName": "amplify-wildwoodrocks-develop-113041-unauthRole",
+      "StackName": "amplify-wildwoodrocks-develop-113041",
+      "StackId": "arn:aws:cloudformation:eu-west-1:299854659728:stack/amplify-wildwoodrocks-develop-113041/e8e05480-0ed9-11eb-913f-064b324c50e9"
     },
     "categories": {
       "auth": {

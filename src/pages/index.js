@@ -18,19 +18,19 @@ class App extends Component {
         <Carousel />
         <Intro />
         <AmplifyAuthenticator>
-        <main>
-          <AboutSection />
-          <section id="cardSection">
-            <h2 className="h1-responsive text-center font-weight-bold mb-5">
-              MDB added 
-            </h2>
-            <MDBRow className="m-0" center>
-              <Card />
-              <Card />
-              <Card />
-            </MDBRow>
-          </section>
-        </main>
+              <main>
+                <AboutSection />
+                <section id="cardSection">
+                  <h2 className="h1-responsive text-center font-weight-bold mb-5">
+                    MDB added 
+                  </h2>
+                  <MDBRow className="m-0" center>
+                    <Card />
+                    <Card />
+                    <Card />
+                  </MDBRow>
+                </section>
+              </main>
           </AmplifyAuthenticator>
         </Layout>
         
