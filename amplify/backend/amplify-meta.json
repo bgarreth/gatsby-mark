@@ -17,12 +17,11 @@
       "service": "Cognito",
       "providerPlugin": "awscloudformation",
       "dependsOn": [],
-      "customAuth": false,
       "providerMetadata": {
         "s3TemplateURL": "https://s3.amazonaws.com/amplify-wildwoodrocks-develop-112402-deployment/amplify-cfn-templates/auth/wildwoodrocksa207023a-cloudformation-template.yml",
         "logicalId": "authwildwoodrocksa207023a"
       },
-      "lastPushTimeStamp": "2020-10-15T10:38:31.870Z",
+      "lastPushTimeStamp": "2020-10-15T11:07:18.344Z",
       "output": {
         "AppClientSecret": "1gfqfcp86esnug8jk6e50nrjl0oi585d43c26t17kbo6emim0a4u",
         "UserPoolId": "eu-west-1_PBClv3d3J",
@@ -32,7 +31,7 @@
         "IdentityPoolName": "wildwoodrocksa207023a_identitypool_a207023a__develop",
         "UserPoolName": "wildwoodrocksa207023a_userpool_a207023a"
       },
-      "lastPushDirHash": "lMt8QdozhTs6h2799XJCmvp4hXw="
+      "lastPushDirHash": "03HrFsfoMe1ReWrMGvoQXsmGYY4="
     }
   }
 }
