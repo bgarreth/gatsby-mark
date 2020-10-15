@@ -1077,3 +1077,12 @@ body.video-react-full-window .video-react-fullscreen {
   transform: translateY(-30px);
 }
 
+/* Amplify components custom */
+amplify-authenticator {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+  height: 100vh;
+}
+

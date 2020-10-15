@@ -13,26 +13,26 @@
     }
   },
   "auth": {
-    "wildwoodrocks5c128736": {
+    "wildwoodrocksa207023a": {
       "service": "Cognito",
       "providerPlugin": "awscloudformation",
       "dependsOn": [],
       "customAuth": false,
       "providerMetadata": {
-        "s3TemplateURL": "https://s3.amazonaws.com/amplify-wildwoodrocks-develop-112402-deployment/amplify-cfn-templates/auth/wildwoodrocks5c128736-cloudformation-template.yml",
-        "logicalId": "authwildwoodrocks5c128736"
+        "s3TemplateURL": "https://s3.amazonaws.com/amplify-wildwoodrocks-develop-112402-deployment/amplify-cfn-templates/auth/wildwoodrocksa207023a-cloudformation-template.yml",
+        "logicalId": "authwildwoodrocksa207023a"
       },
-      "lastPushTimeStamp": "2020-10-12T11:27:59.678Z",
+      "lastPushTimeStamp": "2020-10-15T10:38:31.870Z",
       "output": {
-        "AppClientSecret": "1f54dk7a582tavvh4rgui0qc2305nqcgi8au8idlocmsnlbrrubq",
-        "UserPoolId": "eu-west-1_lqnmkd1ey",
-        "AppClientIDWeb": "3rutuncu8vud3tpnrd63ob4fit",
-        "AppClientID": "1np40d8733660rcovf3nl85p4s",
-        "IdentityPoolId": "eu-west-1:0b5aa588-f863-4392-9a0c-573caeeeebd3",
-        "IdentityPoolName": "wildwoodrocks5c128736_identitypool_5c128736__develop",
-        "UserPoolName": "wildwoodrocks5c128736_userpool_5c128736"
+        "AppClientSecret": "1gfqfcp86esnug8jk6e50nrjl0oi585d43c26t17kbo6emim0a4u",
+        "UserPoolId": "eu-west-1_PBClv3d3J",
+        "AppClientIDWeb": "2eaah8gqv99l29rnhgb81u6t41",
+        "AppClientID": "51aplppbv2ennt45agvrnthgp9",
+        "IdentityPoolId": "eu-west-1:8df8e573-250f-4fe7-a195-3c99b90f22f6",
+        "IdentityPoolName": "wildwoodrocksa207023a_identitypool_a207023a__develop",
+        "UserPoolName": "wildwoodrocksa207023a_userpool_a207023a"
       },
-      "lastPushDirHash": "ChyIDwrVxugk411zj62lI1OE0/U="
+      "lastPushDirHash": "lMt8QdozhTs6h2799XJCmvp4hXw="
     }
   }
 }

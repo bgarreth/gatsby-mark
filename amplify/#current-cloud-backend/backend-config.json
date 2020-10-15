@@ -1,6 +1,6 @@
 {
   "auth": {
-    "wildwoodrocks5c128736": {
+    "wildwoodrocksa207023a": {
       "service": "Cognito",
       "providerPlugin": "awscloudformation",
       "dependsOn": [],

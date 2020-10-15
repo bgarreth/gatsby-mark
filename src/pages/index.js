@@ -6,16 +6,18 @@ import Carousel from '../components/carousel';
 import AboutSection from '../components/aboutSection'
 import Card from '../components/card'
 import { MDBRow } from 'mdbreact'
-import { withAuthenticator, AmplifySignOut } from '@aws-amplify/ui-react'
+import { AmplifyAuthenticator, AmplifySignOut } from '@aws-amplify/ui-react'
 
 class App extends Component {
   render() {
     return (
-      <>
+        
         <Layout>
+          
           <SEO title="Home" keywords={[`wildwoodrock`, `wildwoodrock extreme`, `enduro`, `Australia's hardest enduro`]} />
         <Carousel />
         <Intro />
+        <AmplifyAuthenticator>
         <main>
           <AboutSection />
           <section id="cardSection">
@@ -29,10 +31,11 @@ class App extends Component {
             </MDBRow>
           </section>
         </main>
+          </AmplifyAuthenticator>
         </Layout>
-      </>
+        
     );
   }
 }
 
-export default withAuthenticator (App);
+export default  App;
